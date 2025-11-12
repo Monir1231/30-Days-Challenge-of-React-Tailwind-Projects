@@ -18,7 +18,7 @@ const Counter = () => {
         alert("Reset All number 😢")
     }
   return (
-    <div className=' min-h-screen  flex items-center justify-center  bg-pink-500/90 '>
+    <div className=' min-h-screen  flex items-center justify-center bg-stone-700 '>
     <div className=' bg-white/90 rounded-md p-6 text-center shadow-lg'>
         <h2 className='text-xl font-black mb-3'>Counter App</h2>
         <p className=' text-lg font-semibold mb-6'>{count}</p>
