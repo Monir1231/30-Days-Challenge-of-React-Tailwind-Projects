@@ -29,7 +29,7 @@ const TemperatureConverter = () => {
   };
 
   return (
-    <div className="  min-h-screen flex items-center justify-center bg-[url(night.jpg)] bg-center bg-cover">
+    <div className=" min-h-screen flex items-center justify-center bg-[url(/night.jpg)] bg-center bg-cover">
       <div className="bg-black mx-auto text-white p-4 rounded-md text-center shadow-lg">
         <h1 className=" text-2xl font-bold">Temperature Converter App</h1>
         <CelsiusInput
