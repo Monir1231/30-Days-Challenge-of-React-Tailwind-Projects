@@ -1,0 +1,1 @@
+![Screenshot](/day-3/public/san-francisco-1893985_1280.jpg)
